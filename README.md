@@ -3,7 +3,7 @@
 | [Paper]() |
 
 ## Download model checkpoints
-| Model | Vision Backbone  |      Text Backbone      |
+| Model | Vision Backbone  | Text Backbone |
 |-----------|-----------|------------|
 | [ViLReF_ViT](https://drive.google.com/file/d/13YY2Qto4Xzx-gcOJB1kLdp1pqfjZEnxA/view?usp=drive_link) | ViT-b-16 | RoBERTa-wwm-ext-base-chinese |
 | [ViLReF_RN50](https://drive.google.com/file/d/1xNCNJl_XWsXCgUiMN9O7xaxQ5hop8H2N/view?usp=drive_link) | ResNet50 | RoBERTa-wwm-ext-base-chinese |
