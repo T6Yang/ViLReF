@@ -39,5 +39,13 @@ bash load_model.sh
 
 ## Citation
 ```
-
+@misc{yang2024vilrefchinesevisionlanguageretinal,
+      title={ViLReF: A Chinese Vision-Language Retinal Foundation Model}, 
+      author={Shengzhu Yang and Jiawei Du and Jia Guo and Weihang Zhang and Hanruo Liu and Huiqi Li and Ningli Wang},
+      year={2024},
+      eprint={2408.10894},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.10894}, 
+}
 ```
