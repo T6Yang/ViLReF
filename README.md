@@ -1,6 +1,6 @@
 ## ViLReF: A Chinese Vision-Language Retinal Foundation Model
 
-| [Paper]() |
+| [Paper](https://arxiv.org/abs/2408.10894) |
 
 ## Download model checkpoints
 | Model | Vision Backbone  | Text Backbone |
